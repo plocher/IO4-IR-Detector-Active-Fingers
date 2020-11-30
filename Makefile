@@ -404,7 +404,7 @@ publishall:
 	 )
 
 gerbers:
-	eagle2cam --order --stamp "${CURRENTTAG}" -P ${PROJECT} --noarchive --leave 
+	eagle2CAM --order --stamp "${CURRENTTAG}" -P ${PROJECT} --noarchive --leave 
 
 clean:
 	@# Gerber files, files that scripts generate, temp files...
