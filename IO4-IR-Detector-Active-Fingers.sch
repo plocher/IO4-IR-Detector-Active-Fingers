@@ -1004,8 +1004,8 @@ Standard 4-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <sheet>
 <plain>
 <text x="151.13" y="19.558" size="2.54" layer="91">Reflected IR Light detector</text>
-<text x="241.3" y="12.7" size="2.54" layer="91">1.0</text>
-<text x="241.808" y="6.096" size="2.54" layer="91">A</text>
+<text x="241.3" y="12.7" size="2.54" layer="91">1.3</text>
+<text x="241.808" y="6.096" size="2.54" layer="91">HO</text>
 </plain>
 <instances>
 <instance part="FRAME2" gate="FRAME" x="0" y="0"/>
